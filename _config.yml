@@ -1,0 +1,28 @@
+name: THINQ I/O
+favicon: null
+layout_spectrum: 0.9147054783534259
+typography_spectrum: 0.4146761631127447
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5720566280651838
+  lightness: 0.22185163106769323
+  saturation: 0.9794939095154405
+  rhythmicContrast: 0.32258989149704576
+purpose: []
